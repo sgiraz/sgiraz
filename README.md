@@ -3,9 +3,11 @@
 <h2 align="center">Hi 👋🏻, I'm Simone</h2>
 <h2 align="center">👨🏼‍💻 An Embedded SW Engineer and Computer Science enthusiast 🖥 </h2>
 
+<p align="center"> <img src="https://github.com/sgiraz/sgiraz/blob/output/github-contribution-grid-snake.svg" alt="sgiraz" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgiraz&label=Profile%20views&color=0e75b6&style=flat" alt="sgiraz" /> </p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sgiraz&theme=discord&row=1&margin-w=15" alt=sgiraz" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sgiraz&theme=discord&row=1&margin-w=15" alt="sgiraz" /> </p>
 
 
 - 🔭 I’m currently working on **Robotics**
