@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=An+Embedded+SW+Engineer+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Computer+Science+enthusiast+%F0%9F%92%BB;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=3FFF30&vCenter=true&size=22"></a>
 </p>
 
-<p align="center"> <img src="[https://github.com/sgiraz/sgiraz/assets/github-contribution-grid-snake.svg](https://github.com/sgiraz/sgiraz/blob/master/assets/github-contribution-grid-snake.svg)" alt="github-contribution-grid-snake" /> </p>
+<p align="center"> <img src="https://github.com/sgiraz/sgiraz/blob/master/assets/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgiraz&label=Profile%20views&color=0e75b6&style=flat" alt="sgiraz" /> </p>
 
