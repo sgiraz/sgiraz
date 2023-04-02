@@ -2,7 +2,11 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Simone
 </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sgiraz&label=Profile%20views&color=0e75b6&style=flat" alt="sgiraz" /> </p>
+<p> 
+   <img src="https://komarev.com/ghpvc/?username=sgiraz&label=Profile%20views&color=0e75b6&style=flat" alt="sgiraz" align="left" />
+  
+   <a href="https://www.buymeacoffee.com/sgiraz"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Me a Spritz&emoji=🍹&slug=sgiraz&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" align="right" /></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=An+Embedded+SW+Engineer+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Computer+Science+enthusiast+%F0%9F%92%BB;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=3FFF30&vCenter=true&size=22"></a>
