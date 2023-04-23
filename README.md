@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/simonegirardi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simonegirardi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5710959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5710959" height="30" width="40" /></a>
-<a href="https://www.buymeacoffee.com/sgiraz"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Me a Spritz&emoji=🍹&slug=sgiraz&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" align="right" /></a>
+<a href="https://www.buymeacoffee.com/sgiraz"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a spritz&emoji=🍹&slug=sgiraz&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" align="right" /></a>
 <!-- <a href="https://discord.gg/0293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0293" height="30" width="40" /></a> -->
 
 📜 [**`My GitHub Résumé`**](https://resume.github.io/?sgiraz)
