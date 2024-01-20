@@ -4,7 +4,7 @@
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=sgiraz&label=Profile%20views&color=0e75b6&style=flat" alt="sgiraz" align="left" />
-    <img src="https://github.com/sgiraz/sgiraz/blob/master/assets/github-foundations.png" width="10%" align="right">
+  <a href="https://www.credly.com/badges/b8ef9649-43d6-404a-a79d-99d5cbe140d2/public_url"> <img src="https://github.com/sgiraz/sgiraz/blob/master/assets/github-foundations.png" width="10%" align="right"> </a>
 </div>
 
 <p align="center">
