@@ -19,13 +19,11 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sgiraz&theme=discord&row=1&margin-w=15" alt="sgiraz" /> </p>
 
 
-- 🔭 I’m currently working on **Robotics**
+- 🏎️ I’m currently working on **Automotive**
 
-- 🌱 I’m currently learning **Model Based Design for Embedded Systems, FW Development and Robotics Control Systems**
+- 🌱 I’m currently learning **UI and UX quality test on SW tools for Embedded Systems**
 
-- 💬 Ask me about **Parallel Computing, Real-Time Embedded Systems, Optimization**
-
-- 📫 How to reach me **simone.girardi@iit.it**
+- 💬 Ask me about **Testing, Optimization, Embedded Systems**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
