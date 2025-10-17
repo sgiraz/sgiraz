@@ -30,10 +30,9 @@
 <a href="https://linkedin.com/in/simonegirardi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simonegirardi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5710959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5710959" height="30" width="40" /></a>
 <a href="https://discord.gg/252817641373171724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0293" height="30" width="40" /></a>
-<a href="https://www.buymeacoffee.com/sgiraz"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a spritz&emoji=🍹&slug=sgiraz&button_colour=3d3d3d&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" align="right/></a>
-
+<a href="https://www.buymeacoffee.com/sgiraz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Spritz 🍹" style="height: 60px !important;width: 217px !important;" align="right" /></a>
+  
 📜 [**`My GitHub Résumé`**](https://resume.github.io/?sgiraz)
-
 </p>
 
 <h2 align="left">Technology Stack:</h2>
