@@ -14,7 +14,7 @@
 
 <br>
 
-<p align="center"> <img src="https://github.com/sgiraz/sgiraz/blob/master/assets/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake" /> </p>
+<p align="center"> <img src="https://github.com/sgiraz/sgiraz/blob/master/assets/github-contribution-grid-arkanoid.svg" alt="github-contribution-grid-arkanoid" /> </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sgiraz&theme=discord&row=1&margin-w=15" alt="sgiraz" /> </p>
 
