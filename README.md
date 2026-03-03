@@ -14,9 +14,14 @@
 
 <br>
 
-<p align="center"> <img src="https://github.com/sgiraz/sgiraz/blob/master/assets/github-contribution-grid-arkanoid.svg" alt="github-contribution-grid-arkanoid" /> </p>
+<p align="center">
+  <img src="https://github.com/sgiraz/sgiraz/blob/master/assets/github-contribution-grid-arkanoid.svg" alt="github-contribution-grid-arkanoid" />
+</p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sgiraz&theme=discord&row=1&margin-w=15" alt="sgiraz" /> </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sgiraz&theme=discord&row=1&margin-w=15" alt="sgiraz" />
+</p>
 
 
 - 🏎️ I’m currently working on **Automotive**
@@ -48,7 +53,16 @@
 
 <br>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=sgiraz&show_icons=true&theme=vue-dark">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sgiraz&hide=latex&theme=vue-dark&layout=compact" height="195">
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=sgiraz"
 </p>
+
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sgiraz&show_icons=true&theme=vue-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgiraz&hide=latex&theme=vue-dark&layout=compact" height="195">
+</p>
+-->
+
+
+
