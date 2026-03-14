@@ -20,7 +20,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@master  
-      - uses: sgiraz/akn@v1.1.0
+      - uses: sgiraz/akn@v1.1.1
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
