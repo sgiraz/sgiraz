@@ -86,8 +86,11 @@ Outside of work, I'm a **maker at heart**: home automation, IoT tinkering, 3D pr
   <a href="https://resume.github.io/?sgiraz"><img src="https://img.shields.io/badge/GitHub_Résumé-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Résumé" /></a>
 </p>
 
+---
 <p align="center">
-  <a href="https://www.buymeacoffee.com/sgiraz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Spritz" style="height: 50px !important;width: 200px !important;" /></a>
+  <a href="https://ko-fi.com/S6S21YBJHR" target="_blank" rel="noopener noreferrer">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
+  </a>
 </p>
 
 <!--
